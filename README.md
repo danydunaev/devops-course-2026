@@ -17,3 +17,4 @@ DEV_3.md 2026-09-12
 - Python
 - Docker (скоро)
 >>>>>>> conflict/readme-update-2
+# Multi-remote test
